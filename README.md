@@ -1,7 +1,5 @@
 # ChatBot with ChatGPT API
 
-This project demonstrates how to run a Spring Boot API inside a Docker container.
-
 ## Prerequisites
 
 Python 3.10.10
